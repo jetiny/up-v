@@ -1,0 +1,36 @@
+{
+  "name": "up-v",
+  "version": "1.0.0",
+  "description": "update npm package version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no test specified\" && exit 0"
+  },
+  "bin": {
+    "upv": "bin/upv"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jetiny/up-v.git"
+  },
+  "author": {
+    "name": "jetiny",
+    "email": "86287344@qq.com"
+  },
+  "keywords":[
+    "package",
+    "version",
+    "update",
+    "commit",
+    "git",
+    "npm",
+    "cli",
+    "up-v",
+    "upv"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jetiny/up-v/issues"
+  },
+  "homepage": "https://github.com/jetiny/up-v#readme"
+}
